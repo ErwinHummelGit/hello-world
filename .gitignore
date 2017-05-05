@@ -1,0 +1,6 @@
+.metadata/
+.recommenders/
+FirstSteps/.classpath
+FirstSteps/.gitignore
+FirstSteps/.project
+FirstSteps/.settings/org.eclipse.jdt.core.prefs
